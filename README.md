@@ -72,7 +72,7 @@ GROUP BY OrderStatus;
 ## 📊 Business Intelligence Dashboard & Visual Insights
 
 The dashboard converts operational data into clear visual sections that highlight growth patterns, performance gaps, and system inefficiencies.
-![Project Dashboard](Task%202%20Data%20DAnalysis%20And%20Visualization/Database.png)
+![Project Dashboard](Task%202%20Data%20DAnalysis%20And%20Visualization/Dashboard.png)
 
 ---
 
